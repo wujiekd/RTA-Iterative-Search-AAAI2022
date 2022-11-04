@@ -1,3 +1,15 @@
+paper link: http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-3180/paper-182.pdf
+
+![6ee6b305bc0f86678eb3fb550cd2f22](https://user-images.githubusercontent.com/49955700/199968794-26cbfd39-5379-4b9c-b4c9-68882a910d04.jpg)
+
+
+This work is sponsored by Natural Science Foundation of China(62276242), CAAI-Huawei MindSpore Open Fund(CAAIXSJLJJ-2021-016B), Anhui Province Key Research and Development Program(202104a05020007), and USTC Research Funds of the Double First-Class Initiative(YD2350002001)”。
+
+Later, Mindspore will be provided for implementation.
+
+
+
+
 ## How to run
 
 1. Obtain all Cifar10 data from the official website to the folder ==CIFAR-10-FANs-PY==
